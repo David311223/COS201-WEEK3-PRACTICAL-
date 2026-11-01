@@ -1,2 +1,32 @@
-# COS201-WEEK3-PRACTICAL-
-Cos 201 week 3 Java practical 
+# COS 201 - Week 3 Practical
+
+## Course
+Computer Programming I
+
+## Topic
+Variables, Data Types, Expressions and Input/Output.
+
+## Programs
+
+### 1. SimpleCalculator.java
+Performs basic arithmetic operations:
+- Addition
+- Subtraction
+- Multiplication
+- Division
+
+### 2. AverageCalculator.java
+Accepts three scores, calculates the total and average, and displays the results.
+
+### 3. ItemCost.java
+Accepts an item name, quantity and unit price, then calculates the total cost.
+
+## Programming Language
+Java
+
+## Student
+Oluyombo David Toluwanimi 
+
+Matric no:25/17851 
+
+Programme:Cybersecurity 
